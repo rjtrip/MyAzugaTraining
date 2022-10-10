@@ -1,0 +1,45 @@
+2022-10-03 12:11:03 INFO  Bar:95 - In main Method
+2022-10-03 12:11:04 INFO  Bar:60 - In Constructor
+2022-10-03 12:11:04 INFO  Bar:78 - In create Dataset Method
+2022-10-03 12:11:04 ERROR Bar:88 - Error Index 0 out of bounds for length 0
+2022-10-03 12:11:04 DEBUG Bar:90 - org.jfree.data.category.DefaultCategoryDataset@367
+2022-10-03 12:11:04 DEBUG Bar:126 - id,date,home_team/id,home_team/abbreviation,home_team/city,home_team/conference,home_team/division,home_team/full_name,home_team/name,home_team_score,period,postseason,season,status,time,visitor_team/id,visitor_team/abbreviation,visitor_team/city,visitor_team/conference,visitor_team/division,visitor_team/full_name,visitor_team/name,visitor_team_score
+2022-10-03 12:11:04 DEBUG Bar:126 - 47179,2019-01-30T00:00:00.000Z,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,126,4,false,2018,Final, ,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,94
+2022-10-03 12:11:04 DEBUG Bar:126 - 48751,2019-02-09T00:00:00.000Z,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,112,4,false,2018,Final,     ,13,LAC,LA,West,Pacific,LA Clippers,Clippers,123
+2022-10-03 12:11:04 DEBUG Bar:126 - 48739,2019-02-08T00:00:00.000Z,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,117,4,false,2018,Final,     ,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,110
+2022-10-03 12:11:04 DEBUG Bar:126 - 48740,2019-02-08T00:00:00.000Z,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,119,4,false,2018,Final,     ,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,106
+2022-10-03 12:11:04 DEBUG Bar:126 - 48746,2019-02-08T00:00:00.000Z,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,102,4,false,2018,Final,     ,16,MIA,Miami,East,Southeast,Miami Heat,Heat,96
+2022-10-03 12:11:04 DEBUG Bar:126 - 48762,2019-02-11T00:00:00.000Z,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,121,4,false,2018,Final,     ,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,112
+2022-10-03 12:11:04 DEBUG Bar:126 - 48745,2019-02-08T00:00:00.000Z,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,122,4,false,2018,Final,     ,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,117
+2022-10-03 12:11:04 DEBUG Bar:126 - 48748,2019-02-09T00:00:00.000Z,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,105,4,false,2018,Final,     ,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,90
+2022-10-03 12:11:04 DEBUG Bar:126 - 48749,2019-02-09T00:00:00.000Z,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,120,4,false,2018,Final,     ,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,129
+2022-10-03 12:11:04 DEBUG Bar:126 - 48747,2019-02-09T00:00:00.000Z,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,125,4,false,2018,Final,     ,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,105
+2022-10-03 12:11:04 DEBUG Bar:126 - 48752,2019-02-09T00:00:00.000Z,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,125,4,false,2018,Final,     ,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,134
+2022-10-03 12:11:04 DEBUG Bar:126 - 48756,2019-02-10T00:00:00.000Z,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,102,4,false,2018,Final,     ,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,101
+2022-10-03 12:11:04 DEBUG Bar:126 - 48760,2019-02-10T00:00:00.000Z,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,143,4,false,2018,Final,     ,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,120
+2022-10-03 12:11:04 DEBUG Bar:126 - 48757,2019-02-10T00:00:00.000Z,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,117,4,false,2018,Final,     ,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,104
+2022-10-03 12:11:04 DEBUG Bar:126 - 48755,2019-02-09T00:00:00.000Z,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,83,4,false,2018,Final,     ,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,103
+2022-10-03 12:11:04 DEBUG Bar:126 - 48754,2019-02-09T00:00:00.000Z,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,112,4,false,2018,Final,     ,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,117
+2022-10-03 12:11:04 DEBUG Bar:126 - 48759,2019-02-10T00:00:00.000Z,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,120,4,false,2018,Final,     ,16,MIA,Miami,East,Southeast,Miami Heat,Heat,118
+2022-10-03 12:11:04 DEBUG Bar:126 - 48758,2019-02-10T00:00:00.000Z,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,108,4,false,2018,Final,     ,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,124
+2022-10-03 12:11:04 DEBUG Bar:126 - 48766,2019-02-11T00:00:00.000Z,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,120,4,false,2018,Final,     ,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,104
+2022-10-03 12:11:04 DEBUG Bar:126 - 48764,2019-02-11T00:00:00.000Z,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,127,4,false,2018,Final,     ,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,125
+2022-10-03 12:11:04 DEBUG Bar:126 - 48770,2019-02-12T00:00:00.000Z,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,117,4,false,2018,Final,     ,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,113
+2022-10-03 12:11:04 DEBUG Bar:126 - 48763,2019-02-11T00:00:00.000Z,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,99,4,false,2018,Final,     ,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,90
+2022-10-03 12:11:04 DEBUG Bar:126 - 48765,2019-02-11T00:00:00.000Z,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,99,4,false,2018,Final,     ,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,112
+2022-10-03 12:11:04 DEBUG Bar:126 - 48774,2019-02-12T00:00:00.000Z,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,115,4,false,2018,Final,     ,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,108
+2022-10-03 12:11:04 DEBUG Bar:126 - 48772,2019-02-12T00:00:00.000Z,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,107,4,false,2018,Final,     ,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,108
+2022-10-03 12:11:04 WARN  Bar:133 - Too less data to generate chart
+2022-10-03 12:11:04 INFO  Bar:60 - In Constructor
+2022-10-03 12:11:04 INFO  Bar:78 - In create Dataset Method
+2022-10-03 12:11:04 DEBUG Bar:84 - 126 Boston
+2022-10-03 12:11:04 DEBUG Bar:84 - 112 Boston
+2022-10-03 12:11:04 DEBUG Bar:84 - 117 Philadelphia
+2022-10-03 12:11:04 DEBUG Bar:84 - 119 Washington
+2022-10-03 12:11:04 DEBUG Bar:84 - 102 Sacramento
+2022-10-03 12:11:04 DEBUG Bar:84 - 121 Detroit
+2022-10-03 12:11:04 DEBUG Bar:84 - 122 New Orleans
+2022-10-03 12:11:04 DEBUG Bar:84 - 105 Indiana
+2022-10-03 12:11:04 DEBUG Bar:84 - 120 Atlanta
+2022-10-03 12:11:04 DEBUG Bar:84 - 125 Utah
+2022-10-03 12:11:04 DEBUG Bar:90 - org.jfree.data.category.DefaultCategoryDataset@51f84149
