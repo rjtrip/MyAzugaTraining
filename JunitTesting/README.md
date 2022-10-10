@@ -1,7 +1,7 @@
 
-![Logo](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/04/Linux-Commands.png)
+![Logo](https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/4753235730497536/5693417237512192/image/5700019675987968)
 
-# Linux Commands
+# Junit testing
 
 - Table of Contents
 
@@ -18,7 +18,7 @@
 14. [Feedback](##Feedback)
 
 ## About The Project
-Linux commands are widley used, here are some of the programs that mimics the functionality of some of the basic linux commands.
+Junit testing is the commands to test out the working of codes using junit
 
 ## Installation
 
@@ -27,35 +27,13 @@ The project doesnot need any installation , by adding this project to the IDE's 
 
 ## Features
 
-The Project Azuga Training has codes for different applications like,
-- Cat command
-program read's the data from the input file and the content is given as output.
-
-- ls Command
- it is created to list the files in given input directory.
-
-- grep Command
-to give the lines in the file that contains the given word
-
-- wc command
-It gives the count of words, letters and lines of the data in the input file.
-
-- head and tail commands
-they returns the given number of lines from top(head) and bottom(Tail) lines in the given ibnput file.
-
-- sort command
-Used to sort the content of the file.
-
-- Pipe command
-Used to mimic the pipe command functionality, for the usage og multiple commands at a time.
+Using junit assert statements to test out the output generated
 
 ## Roadmap
  
  The flow of tasks during training,
  
-- LINUX COMMANDS 
 
-    -   --  [ LINUX COMMANDS ](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main/linuxCommands)
 
 
 ## Used By
@@ -77,7 +55,7 @@ This project is used for validation by the following companies:
 
 ## Authors
 
-- [@Lokanath](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
+- [@RajatTripathi](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
 
 
 
@@ -92,11 +70,8 @@ Distributed under the MIT License. See LICENSE.md for more information.
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-#
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LokanathLoki&theme=blue-green)
-#
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LokanathLoki&show_icons=true)
+
 
 
 
