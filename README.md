@@ -61,7 +61,7 @@ The reports created from the Api calls and Formatters were zipped, unzipped and 
     -   --  [ LINUX COMMANDS ](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main/linuxCommands)
 - REST API
 
-    -   --  [ Ghibli API ](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/features/Api)
+    
     -   --  [ Museum API ](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/features/Api)
 
 - FILES GENERATION
