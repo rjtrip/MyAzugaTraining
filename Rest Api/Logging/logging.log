@@ -1,0 +1,9 @@
+2022-10-06 10:42:21 INFO  PipesTest:80 - cattail test
+2022-10-06 10:42:21 INFO  PipesTest:68 -  catwc test
+2022-10-06 10:42:21 INFO  PipesTest:71 - asserting actual output with expected 
+2022-10-06 10:42:21 INFO  PipesTest:95 - catheadtail test
+2022-10-06 10:42:21 INFO  PipesTest:100 - Invoking assertEqual method for expected and actual output
+2022-10-06 10:42:21 INFO  PipesTest:53 -  catsorthead test
+2022-10-06 10:42:21 INFO  PipesTest:59 - asserting actual output with expected
+2022-10-06 10:42:21 INFO  PipesTest:120 -  cat-sort-head-tail-wc test
+2022-10-06 10:42:21 INFO  PipesTest:123 - Invoking assertEqual method for expected and actual output
