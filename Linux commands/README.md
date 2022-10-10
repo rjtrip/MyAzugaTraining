@@ -77,7 +77,7 @@ This project is used for validation by the following companies:
 
 ## Authors
 
-- [@Lokanath](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
+- [@RajatTripathi](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
 
 
 
@@ -92,17 +92,14 @@ Distributed under the MIT License. See LICENSE.md for more information.
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-#
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LokanathLoki&theme=blue-green)
-#
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LokanathLoki&show_icons=true)
+
 
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at LokanathK@gmail.com.com
+If you have any feedback, please reach out to me at tripathirajat1999@gmail.com
 
 
