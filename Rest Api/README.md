@@ -7,7 +7,7 @@
 
 1. [About The Project](##About-The-Project)
 2. [Installation](##Installation)
-3. [Prerequisites] (##Prerequisites)
+
 5. [Features](##Features)
 7. [Roadmap](##Roadmap)
 8. [License](##License)
@@ -24,17 +24,7 @@ The Api contains the java files to call some public Api's. The data ae stored us
 ## Installation
 The project doesnot need any installation , by adding this project to the IDE's workspace and adding all the required jar files given below to the class path the project will serve its purpose.
 
-##Prerequisites
 
-The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features,
-
-pdfunit-java-2016.05.jar
-Underscore-1.81.jar
-opencsv-1.7.jar
-jflat-core-1.3.8.jar
-commans.io.2.11.0.jar
-itextpdf-5.1.0.jar
-if any of them are not working try out the latest versions of jar file
 
 ## Features
 
