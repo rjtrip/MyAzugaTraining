@@ -1,7 +1,7 @@
 
 ![Logo](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/04/Linux-Commands.png)
 
-# Linux Commands
+# Files generation
 
 - Table of Contents
 
@@ -27,36 +27,21 @@ The project doesnot need any installation , by adding this project to the IDE's 
 
 ## Features
 
-The Project Azuga Training has codes for different applications like,
-- Cat command
-program read's the data from the input file and the content is given as output.
+The Project FileFormatter has codes for different applications like,
 
-- ls Command
- it is created to list the files in given input directory.
+csv to html conversion The project contains programs that converts the file with .csv format to the html format.
 
-- grep Command
-to give the lines in the file that contains the given word
+csv to pdf conversion It is included with programs that converts the file format from csv to pdf.
 
-- wc command
-It gives the count of words, letters and lines of the data in the input file.
-
-- head and tail commands
-they returns the given number of lines from top(head) and bottom(Tail) lines in the given ibnput file.
-
-- sort command
-Used to sort the content of the file.
-
-- Pipe command
-Used to mimic the pipe command functionality, for the usage og multiple commands at a time.
+json to xml conversion the file with the json format is converted to the xml format.
 
 ## Roadmap
  
- The flow of tasks during training,
- 
-- LINUX COMMANDS 
+FILES GENERATION
 
-    -   --  [ LINUX COMMANDS ](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main/linuxCommands)
-
+-- PDF FILE
+-- HTML FILE
+-- XML FILE
 
 ## Used By
 
@@ -77,7 +62,7 @@ This project is used for validation by the following companies:
 
 ## Authors
 
-- [@Lokanath](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
+- [@RajatTripathi](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
 
 
 
@@ -103,6 +88,6 @@ Distributed under the MIT License. See LICENSE.md for more information.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at LokanathK@gmail.com.com
+If you have any feedback, please reach out to me at tripathirajat1999@gmail.com
 
 
