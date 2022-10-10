@@ -78,6 +78,6 @@ Distributed under the MIT License. See LICENSE.md for more information.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at LokanathK@gmail.com.com
+If you have any feedback, please reach out to me at tripathirajat1999@gmail.com
 
 
