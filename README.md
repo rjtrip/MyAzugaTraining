@@ -107,7 +107,7 @@ This project is used for validation by the following companies:
 
 ## Authors
 
-- [@Lokanath](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
+- [@Rajattripathi](https://github.com/LokanathLoki/AzugaTrainingCodes/tree/main)
 
 
 
